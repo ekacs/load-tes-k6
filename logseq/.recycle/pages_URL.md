@@ -1,0 +1,2 @@
+- menjalankan *load testing* menggunakan aplikasi K6/Grafana
+-

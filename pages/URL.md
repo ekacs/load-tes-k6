@@ -1,2 +1,0 @@
-- menjalankan *load testing* menggunakan
--
