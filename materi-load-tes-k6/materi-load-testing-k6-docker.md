@@ -6,6 +6,8 @@
   percobaan ini akan memakan sumber daya memori laptop kita, saran terbaik pada saat pelaksanaan uji load test menggunakan sumber daya Server atau Virtual Private Server
 - siapkan file skrip pengujian berbahasa javascript dengan skenario sesuai kesepakatan, berikut contoh skenarionya dan kode javascript-nya
   logseq.order-list-type:: number
+  
+  
   **a. general load tes**
   ![image.png](../assets/image_1728310536100_0.png)
   
